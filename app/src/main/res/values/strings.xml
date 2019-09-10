@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CinemaGit</string>
+    <string name="name_film">Nama Film</string>
+    <string name="text_description">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Bridge of Spies</item>
+        <item>Charlie Angel</item>
+        <item>The Dead Dont Die</item>
+        <item>Geminiman</item>
+        <item>My Spy</item>
+        <item>The Polar Express</item>
+        <item>Shaft</item>
+        <item>Zombieland</item>
+        <item>The Sect</item>
+        <item>The Being Who Fell Stars</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Bridge of Spies adalah film drama biografi Amerika Serikat tahun 2015 yang disutradarai oleh Steven Spielberg dan diproduseri oleh Steven Spielberg, Marc Platt dan Kristie Macosko Krieger. Naskah film ini ditulis oleh Matt Charman</item>
+        <item>Charlie Angels adalah film komedi aksi Amerika tahun 2000 yang disutradarai oleh McG, dibintangi Cameron Diaz, Drew Barrymore, dan Lucy Liu</item>
+        <item>The Dead Dont Die mengambil latar di sebuah kota kosong di Amerika tengah, bernama Centerville</item>
+        <item>Gemini Man bercerita soal Henry Brogan (Will Smith), seorang pembunuh profesional menjadi sasaran pembunuhan lelaki misterius</item>
+        <item>My Spy merupakan film Amerika terbaru dengan genre action komedi yang disutradarai oleh Peter Segal dan diproduseri oleh Dave Bautista, Peter Segal, Chris Segal, Chris Bender, Jake Weiner, Jonathan Meisner, dan Gigi Pritzker</item>
+        <item>The Polar Express adalah sebuah film fantasi musikal Natal animasi komputer 3D Amerika Serikat tahun 2004 yang berdasarkan pada buku anak-anak tahun 1985 bernama sama karya Chris Van Allsburg</item>
+        <item>Detektif polisi Kota New York, John Shaft, melanjutkan misi pribadinya untuk memastikan anak seorang konglomerat real estate diseret ke pengadilan setelah melakukan pembunuhan yang bermotif rasial</item>
+        <item>Zombieland merupakan sebuah film Amerika Serikat yang dirilis pada tahun 2009. Film yang disutradarai oleh Ruben Fleischer ini pemainnya antara lain ialah Jesse Eisenberg, Woody Harrelson, Emma Stone dan Abigail Breslin</item>
+        <item>sekelompok hippies sedang bersantai di tengah padang gurun California yang panas. Tampaknya mereka tinggal di dalam sebuah trailer kecil disana. Alunan musik mengiringi aktivitas mereka di hari yang terik tersebut</item>
+        <item>Hazel yang hobi  menonton reality shows di tv ini ia tidak terlalu ingin mengikuti support group tersebut, karena dia merasa dirinya tidak mengalami depresi</item>
+        </string-array>
+    <array name="data_cover">
+        <item>@drawable/bridges</item>
+        <item>@drawable/charliesangels</item>
+        <item>@drawable/deaddontdie</item>
+        <item>@drawable/geminiman</item>
+        <item>@drawable/myspy</item>
+        <item>@drawable/polarexpress</item>
+        <item>@drawable/shaft</item>
+        <item>@drawable/zombiland</item>
+        <item>@drawable/thesect</item>
+        <item>@drawable/thestars</item>
+    </array>
+</resources>
